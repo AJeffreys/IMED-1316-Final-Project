@@ -1,7 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
 
-Background-image: url("clouds.jpg")
+body{
+	Background-image: url("clouds.jpg");
+	
+	}
+
 
 .index{
 	
