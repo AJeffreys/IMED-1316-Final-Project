@@ -1,25 +1,28 @@
 @charset "utf-8";
 /* CSS Document */
+
+Background-image: url("clouds.jpg")
+
 .index{
-	Background-image: url("clouds.jpg")
+	
 	}
 
 .about{
-	Background-image: url("clouds.jpg")
+	
 	}
 
 .albums{
-	Background-image: url("clouds.jpg")
+	
 	}
 
 .light{
-	Background-image: url("clouds.jpg")
+	
 	}
 
 .dark{
-	Background-image: url("clouds.jpg")
+	
 	}
 
 .contact{
-	Background-image: url("clouds.jpg")
+	
 	}
