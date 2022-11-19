@@ -34,7 +34,20 @@ body{
   	color: #7C7B8F ;
 	}
 
-.index{
+.container-main index {
+	
+	}
+
+.container-main index div {
+	border: 1px;
+	border: solid;
+	padding: 10px;
+	}
+
+.box-1 index {
+	
+	}
+.box-2 index {
 	
 	}
 
