@@ -35,12 +35,11 @@ body{
 	}
 
 .container-main index {
-	
+	display:flex;
 	}
 
-.container-main index div {
+.container-main div {
 	border: 1px;
-	border: solid;
 	padding: 10px;
 	}
 
