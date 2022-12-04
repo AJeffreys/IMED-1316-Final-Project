@@ -71,23 +71,18 @@ body{
 	background-color:#DBD9D3;
 	padding:20px;
 	font-family:'Gentium Book Plus', serif;
+	text-align: center;
 	}
 
 .right{
 	flex-grow: 5;
-	float: left;
 	margin-left: 50px;
 	margin-right: 50px;
 	margin-top: 50px;
 	padding: 20px;
 	font-family:'Gentium Book Plus', serif;
-	}
-
-.right{	
-	margin-top: 50px;
-	padding:20px;
+	text-alight: center;
 	background-color:#DBD9D3;
-	font-family:'Gentium Book Plus', serif;
 	}
 
 * {
