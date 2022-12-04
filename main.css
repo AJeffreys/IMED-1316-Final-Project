@@ -63,32 +63,30 @@ body{
 	}
 
 .left{
-	flex-grow: 1;
-	margin-top:50px;
-	margin-right:20px;
-	margin-left: 65px;
-	margin-bottom: 30px;
+	flex-grow: 5;
+	margin-top: 50px;
+	margin-bottom:inherit;
+	margin-left: 50px;
+	margin-right: 50px;
 	background-color:#DBD9D3;
-	padding:0 20px 0 20px;
+	padding:20px;
 	font-family:'Gentium Book Plus', serif;
 	}
 
 .right{
-	width: 400px;
+	flex-grow: 5;
 	float: left;
-	margin-left: 100px;
-	margin-right: 30px;
+	margin-left: 50px;
+	margin-right: 50px;
 	margin-top: 50px;
-	color: #BB0000;
-	padding:0 20px 0 20px;
+	padding: 20px;
 	font-family:'Gentium Book Plus', serif;
 	}
 
-.right{
-	flex-grow: 1;	
+.right{	
 	margin-top: 50px;
-	color: #BB0000;
-	padding:0 20px 0 20px;
+	padding:20px;
+	background-color:#DBD9D3;
 	font-family:'Gentium Book Plus', serif;
 	}
 
