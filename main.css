@@ -13,7 +13,7 @@ body{
 .header {
   	padding: 10px;
   	text-align: center;
-  	background: #DBD9D3;
+  	background:#DBD9D3;
   	color: black;
 	}
 
@@ -57,3 +57,39 @@ body{
 .contact{
 	
 	}
+
+.left{
+	flex-grow: 1;
+	margin-top:50px;
+	margin-right:20px;
+	margin-left: 65px;
+	margin-bottom: 30px;
+	background-color:rgba(212,210,210,1.00);
+	padding:0 20px 0 20px;
+	}
+
+.right{
+	width: 400px;
+	float: left;
+	margin-left: 100px;
+	margin-right: 30px;
+	margin-top: 50px;
+	color: #BB0000;
+	background-color:rgba(212,210,210,0.87);
+	padding:0 20px 0 20px;
+	border-radius: 0 20px 20px 0;
+	}
+
+.right{
+	flex-grow: 1;	
+	margin-top: 50px;;
+	color: #BB0000;
+	background-color:rgba(212,210,210,0.87);
+	padding:0 20px 0 20px;
+	border-radius: 0 20px 20px 0;
+	}
+
+* {
+  box-sizing:auto;
+}
+
