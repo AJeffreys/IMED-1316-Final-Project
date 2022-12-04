@@ -15,11 +15,13 @@ body{
   	text-align: center;
   	background:#DBD9D3;
   	color: black;
+	font-family:'Gentium Book Plus', serif;
 	}
 
 .navbar {
   	display: flex;
   	background-color: #7C7B8F;
+	font-family:'Gentium Book Plus', serif;
 	}
 
 .navbar a {
@@ -27,11 +29,13 @@ body{
   	padding: 14px 20px;
   	text-decoration: none;
   	text-align:center;
+	font-family:'Gentium Book Plus', serif;
 	}
 
 .navbar a:hover {
   	background-color: #DBD9D3;
   	color: #7C7B8F ;
+	font-family:'Gentium Book Plus', serif;
 	}
 
 .index{
@@ -66,6 +70,7 @@ body{
 	margin-bottom: 30px;
 	background-color:#DBD9D3;
 	padding:0 20px 0 20px;
+	font-family:'Gentium Book Plus', serif;
 	}
 
 .right{
@@ -76,6 +81,7 @@ body{
 	margin-top: 50px;
 	color: #BB0000;
 	padding:0 20px 0 20px;
+	font-family:'Gentium Book Plus', serif;
 	}
 
 .right{
@@ -83,6 +89,7 @@ body{
 	margin-top: 50px;
 	color: #BB0000;
 	padding:0 20px 0 20px;
+	font-family:'Gentium Book Plus', serif;
 	}
 
 * {
