@@ -64,7 +64,7 @@ body{
 	margin-right:20px;
 	margin-left: 65px;
 	margin-bottom: 30px;
-	background-color:rgba(212,210,210,1.00);
+	background-color:#DBD9D3;
 	padding:0 20px 0 20px;
 	}
 
@@ -75,18 +75,14 @@ body{
 	margin-right: 30px;
 	margin-top: 50px;
 	color: #BB0000;
-	background-color:rgba(212,210,210,0.87);
 	padding:0 20px 0 20px;
-	border-radius: 0 20px 20px 0;
 	}
 
 .right{
 	flex-grow: 1;	
-	margin-top: 50px;;
+	margin-top: 50px;
 	color: #BB0000;
-	background-color:rgba(212,210,210,0.87);
 	padding:0 20px 0 20px;
-	border-radius: 0 20px 20px 0;
 	}
 
 * {
