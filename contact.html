@@ -7,6 +7,13 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:wght@700&display=swap" rel="stylesheet">
+	
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $(":checkbox").wrap("<span style='background-color:red'>");
+});
+</script>
 </head>
 
 <body>
@@ -27,8 +34,14 @@
 		<input type="text" id="LastName" name="LastName">
 		<label for="Email">Email:</label>
 		<input type="text" id="Email" name="Email">
-		<input type="submit" value="Submit">
 		<br>
+		
+		<form action="">
+  		I want to talk about a similar experience: <input type="checkbox" name="vehicle" value="Bike"><br>
+  		I just want to appreciate the photographs: <input type="checkbox" name="vehicle" value="Car"><br>
+  		I have a complaint or concern about this page: <input type="checkbox" name="vehicle" value="Airplane"><br>
+  <input type="submit">
+</form>
 </article>
 		</div>
 	</div>
