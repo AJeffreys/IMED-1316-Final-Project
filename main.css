@@ -6,7 +6,7 @@
 				margin:0 auto;}}
 
 body{
-	background-image: url("clouds.jpg");
+	background-image: url("Pictures/clouds.jpg");
 	
 	}
 
@@ -83,9 +83,13 @@ body{
 	font-family:'Gentium Book Plus', serif;
 	text-alight: center;
 	background-color:#DBD9D3;
+	align-content: center
 	}
 
 * {
   box-sizing:auto;
 }
 
+.img {align-items:center;
+	padding:10px 10px 10px 10px;
+	align-content: center;}
